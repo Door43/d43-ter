@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ter:home|Door43 (ter)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ter|d43-ter repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ter/archive/master.zip|d43-ter.zip]]
+
+**Recent Changes**
+{{changes>ns = ter}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ter|Ethnologue data]]
+
